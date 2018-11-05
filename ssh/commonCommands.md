@@ -7,6 +7,18 @@ sudo chmod 400 ~/.ssh/[your-key]
 # GREP: Search for files with a string inside them:
 grep -i -R "STRINGGOESHERE" directoryhere
 
+# Find File
+find . -name myFile.txt
+
+### wildcard pattern:
+find . -name "myFile*"
+
+### List Directories Only:
+find . -type d
+
+### Modified in last 2 days
+find . -mtime -2
+
 # Use this one:	
 grep  -r -H "database" *
 
@@ -16,3 +28,14 @@ grep -r --include=*.php "search string" /path/to/dir
 
 # Remove Folder
 rm -r
+
+# Check Permisions
+ls -all
+
+# Change Permissions
+sudo chown apache:apache ./filename.txt"
+sudo chown -R apache:apache ./dir
+
+
+# Live Changing Error Log
+tail -f /var/log/apache2/error.log
