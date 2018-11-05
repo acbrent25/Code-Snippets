@@ -5,7 +5,7 @@ ssh-add -K ~/.ssh/[your-private-key]
 sudo chmod 400 ~/.ssh/[your-key]
 
 # GREP: Search for files with a string inside them:
-grep -i -R "STRINGGOESHERE" directoryhere
+grep -i -R "needle in haystack" directoryhere
 
 # Find File
 find . -name myFile.txt
@@ -20,10 +20,10 @@ find . -type d
 find . -mtime -2
 
 # Search String in All Directories in Human Readable Format:	
-grep  -r -H "database" *
+grep  -r -H "needle in haystack" *
 
 # include filter to only search certain extensions
-grep -r --include=*.php "search string" /path/to/dir
+grep -r --include=*.php "needle in haystack" /path/to/dir
 
 
 # Remove Folder
