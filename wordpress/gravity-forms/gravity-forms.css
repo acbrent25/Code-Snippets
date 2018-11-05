@@ -13,3 +13,17 @@ body .gform_wrapper .gform_body .gform_fields .gfield textarea {
 	background-color:#fff;
 	color:#000
 }
+
+/* Center Submit Button */
+.gform_footer.top_label {
+   text-align: center;
+}
+
+/* Add Icon to Input Field */
+li#field_2_1 {
+   background: url(whatever.svg) no-repeat;
+   background-size: 25px 25px;
+   opacity: .5;
+   background-position: 95% 45%;
+   padding-right: 20px;
+}
