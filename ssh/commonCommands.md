@@ -14,5 +14,5 @@ grep  -r -H "database" *
 grep -r --include=*.php "search string" /path/to/dir
 
 
-#Remove Folder
+# Remove Folder
 rm -r
