@@ -10,7 +10,7 @@ grep -i -R "STRINGGOESHERE" directoryhere
 # Find File
 find . -name myFile.txt
 
-### wildcard pattern:
+### Wildcard pattern:
 find . -name "myFile*"
 
 ### List Directories Only:
@@ -19,10 +19,10 @@ find . -type d
 ### Modified in last 2 days
 find . -mtime -2
 
-# Use this one:	
+# Search String in All Directories in Human Readable Format:	
 grep  -r -H "database" *
 
-#include filter to only search certain extensions
+# include filter to only search certain extensions
 grep -r --include=*.php "search string" /path/to/dir
 
 
