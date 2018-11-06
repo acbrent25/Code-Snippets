@@ -1,0 +1,28 @@
+.icon-checkmark li {
+   list-style: none; 
+   position: relative;
+   padding: 6px 0 0 30px;
+}
+
+.icon-checkmark li:before{
+   background: transparent url('url.png') no-repeat;
+   content:"";
+   width: 20px;
+   height: 20px;
+   position: absolute;
+   left: 0;
+   top: 10px;
+}
+
+/* Font Awesome */
+
+.program-breakdown-content ul {
+   padding-left: 20px;
+   list-style: none;
+}
+
+.program-breakdown-content ul li:before {
+   font-family: 'FontAwesome';
+   content: '\f058';
+   margin: 0 5px 0 -15px;
+}
