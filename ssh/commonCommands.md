@@ -25,7 +25,6 @@ grep  -r -H "needle in haystack" *
 # include filter to only search certain extensions
 grep -r --include=*.php "needle in haystack" /path/to/dir
 
-
 # Remove Folder
 rm -r
 
@@ -36,6 +35,8 @@ ls -all
 sudo chown apache:apache ./filename.txt"
 sudo chown -R apache:apache ./dir
 
-
 # Live Changing Error Log
 tail -f /var/log/apache2/error.log
+
+# Ping Website to Find Out IP Address
+ping sitename.com
