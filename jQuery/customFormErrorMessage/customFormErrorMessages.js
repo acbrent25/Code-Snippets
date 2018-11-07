@@ -10,15 +10,20 @@ $('.sub-btn').click(function(e){
    // empty alert for use in loop
    var alert = '';
    // if event type is missing a value then push custom alertmessage to array
-   if ($('#event_type_id').val() === ''){
+   if ($('#eventType').val() === ''){
       alertMessage.push("Please Select an Event Type");
    }
    // Same as above
-   if ($('#widget_type_id').val() === ''){
+   if ($('#widgetType').val() === ''){
       alertMessage.push("Please Select a Widget Type");
+   }
+   
+   // Same as above
+   if ($('#yourName').val() === ''){
+      alertMessage.push("Please Enter Your Name");
    } 
    
-   // fi the alert message array isn't empty
+   // if the alert message array isn't empty
    if (alertMessage != undefined || alertMessage != 0){
       //loop over ever alertmessage in array
       for(var i = 0; i < alertMessage.length; i++){
