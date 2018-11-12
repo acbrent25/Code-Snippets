@@ -130,6 +130,10 @@
                 padding-right: 0 !important;
                 float: none !important;
             }
+            
+            td.center-on-narrow {
+               width: 100% !important;
+            }
 
             td.r-header-txt { height: 40px; }
             table.logo-row img { width: 100%!important; height: auto!important; }
@@ -148,8 +152,9 @@
          /* overrides for screen sizes under 510 */
          @media only screen and (max-width: 510px) {
             table.container { width: 100% !important; }
-            td.cols-2 table.l-col { width: 100% !important; }
+            td.cols-2 table.l-col { width: 100% !important; padding: 0 !important; }
             td.cols-2 table.r-col { width: 100% !important; }
+            .l-col td { padding-left: 0 !important; }
             
          }
 
