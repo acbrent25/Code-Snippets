@@ -25,8 +25,11 @@ grep  -r -H "needle in haystack" *
 # include filter to only search certain extensions
 grep -r --include=*.php "needle in haystack" /path/to/dir
 
+# Delete File
+rm filename
+
 # Remove Folder
-rm -r
+rm -rf foldername
 
 # Check Permisions
 ls -all
