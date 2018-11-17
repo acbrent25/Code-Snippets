@@ -60,3 +60,10 @@ tableName.findAll({
  http://docs.sequelizejs.com/en/latest/docs/migrations/
 
  npm install --save sequelize-cli
+
+
+ ## Updating Models and Migrations
+ https://itnext.io/overcoming-sequelize-hiccups-24e916ebb4c4
+
+ ## Codecast tutorial
+ https://www.youtube.com/playlist?list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR
