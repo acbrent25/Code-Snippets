@@ -1,0 +1,53 @@
+
+   <button id="scrollTopBtn" title="Go to top"><i class="fas fa-caret-square-up"></i></button>
+   
+   
+   <style>
+   /* ---------------------------
+         Scroll To Top
+   ------------------------------ */
+
+   #scrollTopBtn {
+      display: none;
+      position: fixed;
+      bottom: 0px;
+      right: 10px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      color: #595959;
+      cursor: pointer;
+      border-radius: 10px;
+      font-size: 50px;
+      opacity: .5;
+      background: none;
+   }
+   </style>
+   
+   
+   
+   <script>
+   
+   // Scroll to Top
+	// When the user scrolls down 20px from the top of the document, show the button
+	
+	var scrollBtn = $('#scrollTopBtn');
+	
+	//Check to see if the window is top if not then display button
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $(scrollBtn).fadeIn();
+        } else {
+            $(scrollBtn).fadeOut();
+        }
+    });
+
+    //Click event to scroll to top
+    $(scrollBtn).click(function(){
+        $('html, body').animate({scrollTop : 0},800);
+        return false;
+    });
+
+    </script>
+
+    
