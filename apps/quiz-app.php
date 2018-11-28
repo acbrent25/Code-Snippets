@@ -90,151 +90,6 @@ get_header(); ?>
 	}
 
 </style>
-
-<!-- HERO SECTION -->
-<div class="container-full">
-	<div class="row">
-		<div class="col-md-12">
-			<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/IBD_Landing-Page-header-txt.jpg" alt="Inpsired by Drive Carseat Safety Quiz" width="1920" height="766">
-		</div>
-	</div>
-</div>
-
-
-<!-- CARSEAT SECTION : SPIRIT PLUS -->
-<div class="container carseat-wrap">
-  <div class="row">
-    <div class="col-md-3 featured-seat">
-      <img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/car-seat1.jpg" alt="Spirit & Spirit Plus Car Seats" width="600" height="658"/>
-    </div>
-    <div class="col-md-9">
-      <div class="subanv_category_image background_category-6"> <img src="http://www.inspiredbydrive.com/wp-content/uploads/2017/01/car-seat.svg" alt="Car Seat" /></div>
-      <h2 class="color_category-6">Spirit & Spirit Plus Car Seats</h2>
-      <p>The <strong>Spirit Car Seat</strong> offers parents of a special needs child or young adult, the everyday safety of a traditional car seat combined with optimal levels of clinical support to assist with positioning needs. A memory foam back support and seating area, create a comfortable seating environment. The Spirit accommodates a wide weight range of weights (25-130 lbs.) and heights (up to 5’6″), allowing growth of a child or young adult to occur without having to purchase another car seat.</p>
-		
-		<div class="row carseat-row">
-			<div class="col-lg-3">
-				
-			</div>
-			<div class="col-lg-5">
-				<h4>Available Colors:</h4>
-				<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/spirit-available-colors.jpg" alt="Spirit Car Seat Available Colors" width="791" height="220">
-			</div>
-			<div class="col-lg-4" id="quick-ship">
-				<h4>Available Quick-Ship Colors*:</h4>
-				<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/spirit-quick-ship-colors.jpg" alt="Spirit Car Seat Quick Shipo Colors" width="228" height="220">
-				<p>*Spirit Plus Only</p>
-			</div>
-		</div>
-    </div>
-  </div>
-</div>
-
-<!-- DIVIDER SECTION -->
-<div class="container">
-	<hr>
-</div>
-
-<!-- CARSEAT SECTION : IPS -->
-<div class="container carseat-wrap">
-  <div class="row">
-    <div class="col-md-3 featured-seat">
-      <img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/car-seat2.jpg" alt="IPS Car Seats" width="600" height="660" />
-    </div>
-    <div class="col-md-9">
-      <div class="subanv_category_image background_category-6"> <img src="http://www.inspiredbydrive.com/wp-content/uploads/2017/01/car-seat.svg" alt="Car Seat" /></div>
-      <h2 class="color_category-6">IPS Car Seat</h2>
-      <p>The <strong>IPS Car Seat</strong> offers a lighter and narrower alternative to our Spirit Car Seat. Designed to accommodate children with mild positioning needs, the <strong>IPS</strong> offers the safety of an everyday car seat while providing a higher level of postural support than a traditional car seat.</p>
-		
-		<div class="row carseat-row">
-			<div class="col-lg-6">
-				
-			</div>
-			<div class="col-lg-6">
-				<h4>Available Colors:</h4>
-				<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/ips-available-colors.jpg" alt="IPS Car Seat Available Colors" width="810" height="220">
-			</div>
-		</div>
-    </div>
-  </div>
-</div>
-
-<!-- DIVIDER SECTION -->
-<div class="container">
-	<hr>
-</div>
-
-<!-- CARSEAT SECTION : SPIRIT SPICA -->
-<div class="container carseat-wrap">
-  <div class="row">
-    <div class="col-md-3 featured-seat">
-      <img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/car-seat3.jpg" alt="Spirit Spica Car Seats" width="600" height="701" />
-    </div>
-    <div class="col-md-9">
-      <div class="subanv_category_image background_category-6"> <img src="http://www.inspiredbydrive.com/wp-content/uploads/2017/01/car-seat.svg" alt="Car Seat" /></div>
-      <h2 class="color_category-6">Spirit Spica Car Seat</h2>
-      <p>The <strong>Spirit Spica</strong> Car Seat offers a low and wide side profile, designed to accommodate a spica cast. Padded upholstery is wipe-able.  The <strong>Spirit Spica</strong> includes positioning wedges for multiple seating configurations, and option seat depth extenders and back cushions.</p>
-		
-		<div class="row carseat-row">
-			<div class="col-lg-6">
-				
-			</div>
-			<div class="col-lg-6">
-				<h4>Available in Stealth Black Only</h4>
-				<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/spirit-spica-available-colors.jpg" alt="IPS Car Seat Available Colors" width="810" height="220">
-			</div>
-		</div>
-    </div>
-  </div>
-</div>
-
-<!-- DIVIDER SECTION -->
-<div class="container">
-	<hr>
-</div>
-
-<!-- QUIZ INTRO SECTION -->
-<div class="container text-center">
-	<div class="row">
-		<div class="col-md-10 col-md-offset-1">
-			<h2 class="green">Inspired by Drive Car Seat Certification</h2>
-			<p>Learn how to properly install your Inspired by Drive Car Seat</p>
-			<div class="row" id="quiz-steps">
-				<img src="http://www.inspiredbydrive.com/wp-content/uploads/2018/11/carseat-cert-steps.png" alt="Carseat Certification Steps" width="1605" height="485">
-			</div>
-		</div>
-	</div>
-</div>
-
-<!-- SPACER SECTION -->
-<div class="spacer"></div>
-
-<!-- CARSEAT VIDEO SECTION -->
-<div class="container">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NJnX7Ecsacc' frameborder='0' allowfullscreen></iframe></div>
-		</div>
-	</div>
-</div>
-
-<!-- DIVIDER SECTION -->
-<div class="container">
-	<hr>
-</div>
-
-<!-- GRAVITY FORMS SECTION -->
-<div class="container form-wrapper">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<?php gravity_form( 1, $display_title = false, $display_description = false, $display_inactive = false, $field_values = null, $ajax = true, $tabindex, $echo = true ); ?>
-		</div>
-	</div>
-</div>
-
-
-   
-   
    
 <!-- STATIC QUIZ CONTENT -->
 <div class="container quiz-wrapper" style="margin-top: 100px;">
@@ -249,29 +104,16 @@ get_header(); ?>
                      <div id="question_count">
                         <h3>Question 1 of 5</h3>
                      </div>
-                     <label for="question_one">1.You should refer to your vehicle’s owner’s manual to determine vehicle
-                        belt compatibility for your car seat.</label>
+                     <label for="question_one">Lorem ipsum dolor amet af brunch prism</label>
                      <select class="form-control" id="question_one">
                         <option value="0">Please Make a Selection</option>
-                        <option value="correct">A. True. Vehicle seats and safety belts differ from vehicle to vehicle.</option>
-                        <option value="incorrect">B. False. All vehicle seats and safety belts are the same.</option>
+                        <option value="correct">A. Lorem ipsum dolor amet af brunch prism,</option>
+                        <option value="incorrect">B.Lorem ipsum dolor amet af brunch prism,</option>
                      </select>
                      <div id="explanation_1">
                         <div id="answer_1_result"></div>
                         <h3>EXPLANATION:</h3>
-                        <p>Below are the types of vehicle seat belt retractors. Refer to your vehicle owner’s manual to
-                           determine the kind of retractors used in your vehicle and how to operate them. ELR –
-                           Emergency Locking Retractor: Allows the belt to be freely extended or rewound. It locks only
-                           when the vehicle slows, changes direction or stops suddenly.</p>
-                        <p>ALR – Automatic Locking Retractor: Allows belt to be pulled in one motion until fastened,
-                           then operates as a ratchet, winding in slack, preventing further extension (until completely
-                           rewound). In most belts, you will hear a faint clicking sound that indicates the belt is
-                           locked and ratcheting in.</p>
-                        <p>Switchable – Manually adjustable from ELR mode to ALR mode. For most, pull belt webbing all
-                           the way out of the retractor to activate the ALR mode. A slight “click” may be heard, but
-                           the belt will ratchet into retractor once switched into ALR mode. In some models, the
-                           retractors switch from ELR to ALR by pushing a button.
-                        </p>
+                        <p>distillery gochujang chartreuse banh mi art party pitchfork kombucha poke heirloom flannel tote bag next level. Brunch portland ennui hell of ugh gluten-free.</p>
                      </div>
                   </div>
 
@@ -280,21 +122,16 @@ get_header(); ?>
                      <div id="question_count">
                         <h3>Question 2 of 5</h3>
                      </div>
-                     <label for="question_two">2. Once the car seat is installed properly, there should be no more than
-                        ________inch(es) of movement from side to side.</label>
+                     <label for="question_two">2. Lorem ipsum dolor amet af brunch prism</label>
                      <select class="form-control" id="question_two">
-                        <option value="0">Please Make a Selection</option>
-                        <option value="incorrect">A. 4 inches</option>
-                        <option value="incorrect">B. 3 inches</option>
-                        <option value="incorrect">C. 2 inches</option>
-                        <option value="correct">D. 1 inch</option>
+                     <option value="0">Please Make a Selection</option>
+                        <option value="correct">A. Lorem ipsum dolor amet af brunch prism,</option>
+                        <option value="incorrect">B.Lorem ipsum dolor amet af brunch prism,</option>
                      </select>
                      <div id="explanation_2">
                         <div id="answer_2_result"></div>
                         <h3>EXPLANATION:</h3>
-                        <p>The tightness of the installation should ensure that there is no more than 1-inch of
-                           movement of the child restraint. If there is more than 1-inch of movement, then the
-                           installation is incorrect and must be redone.</p>
+                        <p>distillery gochujang chartreuse banh mi art party pitchfork kombucha poke heirloom flannel tote bag next level. Brunch portland ennui hell of ugh gluten-free.</p>
                      </div>
                   </div>
 
@@ -303,20 +140,16 @@ get_header(); ?>
                      <div id="question_count">
                         <h3>Question 3 of 5</h3>
                      </div>
-                     <label for="question_three">3. When a child is over 80 pounds, you should ________ use 2 tether
-                        anchor points.</label>
+                     <label for="question_three">3. Lorem ipsum dolor amet af brunch prism</label>
                      <select class="form-control" id="question_three">
-                        <option value="0">Please Make a Selection</option>
-                        <option value="incorrect">A. Never</option>
-                        <option value="correct">B. Always</option>
-                        <option value="incorrect">C. Sometimes</option>
+                     <option value="0">Please Make a Selection</option>
+                        <option value="correct">A. Lorem ipsum dolor amet af brunch prism,</option>
+                        <option value="incorrect">B.Lorem ipsum dolor amet af brunch prism,</option>
                      </select>
                      <div id="explanation_3">
                         <div id="answer_3_result"></div>
                         <h3>EXPLANATION:</h3>
-                        <p>For occupants over 80 lb. (36 kg), BOTH tether hooks must be used. Each hook must be
-                           attached to a separate tether anchor. A single tether anchor is not strong enough to support
-                           weights in excess of 80 lb. (36 kg).</p>
+                        <p>distillery gochujang chartreuse banh mi art party pitchfork kombucha poke heirloom flannel tote bag next level. Brunch portland ennui hell of ugh gluten-free.</p>
                      </div>
 
                   </div>
@@ -326,20 +159,17 @@ get_header(); ?>
                      <div id="question_count">
                         <h3>Question 4 of 5</h3>
                      </div>
-                     <label for="question_four">4. The Inspired by Drive car seats can be used in rear or
-                        forward-facing positions?</label>
+                     <label for="question_four">4. Lorem ipsum dolor amet af brunch prism</label>
 
                      <select class="form-control" id="question_four">
-                        <option value="0">Please Make a Selection</option>
-                        <option value="incorrect">A. True</option>
-                        <option value="correct">B. False</option>
+                     <option value="0">Please Make a Selection</option>
+                        <option value="correct">A. Lorem ipsum dolor amet af brunch prism,</option>
+                        <option value="incorrect">B.Lorem ipsum dolor amet af brunch prism,</option>
                      </select>
                      <div id="explanation_4">
                         <div id="answer_4_result"></div>
                         <h3>EXPLANATION:</h3>
-                        <p>Inspired by Drive child restraints must ONLY be used in forward-facing vehicle seats. Do not
-                           place a child in a child restraint in the front seat of a vehicle with a passenger air bag
-                           unless the air bag is turned off. DEATH or SERIOUS INJURY can occur.</p>
+                        <p>distillery gochujang chartreuse banh mi art party pitchfork kombucha poke heirloom flannel tote bag next level. Brunch portland ennui hell of ugh gluten-free.</p>
                      </div>
 
                   </div>
@@ -349,22 +179,17 @@ get_header(); ?>
                      <div id="question_count">
                         <h3>Question 5 of 5</h3>
                      </div>
-                     <label for="question_five">5. The Inspired by Drive car seats can be used in rear or
-                        forward-facing positions?</label>
+                     <label for="question_five">5. Lorem ipsum dolor amet af brunch prism</label>
 
                      <select class="form-control" id="question_five">
-                        <option value="0">Please Make a Selection</option>
-                        <option value="incorrect">A. The buckle should be even with the child’s belly button </option>
-                        <option value="incorrect">B. The buckle should be even with the child’s neck </option>
-                        <option value="correct">C. The buckle should be just below the child’s arm pits in the center
-                           of their chest </option>
+                     <option value="0">Please Make a Selection</option>
+                        <option value="correct">A. Lorem ipsum dolor amet af brunch prism,</option>
+                        <option value="incorrect">B.Lorem ipsum dolor amet af brunch prism,</option>
                      </select>
                      <div id="explanation_5">
                         <div id="answer_5_result"></div>
                         <h3>EXPLANATION:</h3>
-                        <p>Inspired by Drive child restraints must ONLY be used in forward-facing vehicle seats. Do not
-                           place a child in a child restraint in the front seat of a vehicle with a passenger air bag
-                           unless the air bag is turned off. DEATH or SERIOUS INJURY can occur.</p>
+                        <p>distillery gochujang chartreuse banh mi art party pitchfork kombucha poke heirloom flannel tote bag next level. Brunch portland ennui hell of ugh gluten-free.</p>
                      </div>
                   </div>
                </div>
@@ -480,7 +305,7 @@ jQuery( document ).ready(function() {
          $('#next').show();
       } else {
          // Let user know they are wrong
-         $(answer_1_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: True. Vehicle seats and safety belts differ from vehicle to vehicle </p> <p class="red">Please select the correct answer</p>');
+         $(answer_1_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: True. cray mixtape heirloom glossier chambray bushwick cloud bread. </p> <p class="red">Please select the correct answer</p>');
          // Show the explanation
          $(explanation_1).show();
          $('#next').hide();
@@ -505,7 +330,7 @@ jQuery( document ).ready(function() {
 	    $('#next').show();
 	 } else {
 	    // Let user know they are wrong
-	    $(answer_2_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: D. 1 inch </p> <p class="red">Please select the correct answer</p>');
+	    $(answer_2_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: cray mixtape heirloom glossier chambray bushwick cloud bread. </p> <p class="red">Please select the correct answer</p>');
 	    // Show the explanation
 	    $(explanation_2).show();
 	    $('#next').hide();
@@ -529,7 +354,7 @@ jQuery( document ).ready(function() {
 	    $('#next').show();
 	 } else {
 	    // Let user know they are wrong
-	    $(answer_3_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: B. Always </p> <p class="red">Please select the correct answer</p>');
+	    $(answer_3_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>cray mixtape heirloom glossier chambray bushwick cloud bread. </p> <p class="red">Please select the correct answer</p>');
 	    // Show the explanation
 	    $(explanation_3).show();
 	    $('#next').hide();
@@ -555,7 +380,7 @@ jQuery( document ).ready(function() {
 	    $('#next').show();
 	 } else {
 	    // Let user know they are wrong
-	    $(answer_4_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: B. False </p><p class="red">Please select the correct answer</p>');
+	    $(answer_4_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: cray mixtape heirloom glossier chambray bushwick cloud bread. </p><p class="red">Please select the correct answer</p>');
 	    // Show the explanation
 	    $(explanation_4).show();
 	    $('#next').hide();
@@ -582,7 +407,7 @@ jQuery( document ).ready(function() {
 	    $('#cert-btn').show();
 	 } else {
 	    // Let user know they are wrong
-	    $(answer_5_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: C. The buckle should be just below the child’s arm pits in the center of their chest.</p> <p class="red">Please select the correct answer</p>');
+	    $(answer_5_result).html('<h2><i class="fas fa-times red"></i> Incorrect</h2> <p>The correct answer is: cray mixtape heirloom glossier chambray bushwick cloud bread.</p> <p class="red">Please select the correct answer</p>');
 	    // Show the explanation
 	    $(explanation_5).show();
 	    $('#next').hide();
@@ -709,7 +534,7 @@ jQuery( document ).ready(function() {
 			windowRedirect();
 	}
 	function windowRedirect(){
-		var baseUrl = 'http://info.drivemedical.com/l/427502/2018-10-17/btmrgl'
+		var baseUrl = '/'
 		window.location = baseUrl + '?firstname=' + firstName + '&lastname=' + lastName + '&email=' + email + '&company=' + company + '&date=' + newDate;
 
 	}
