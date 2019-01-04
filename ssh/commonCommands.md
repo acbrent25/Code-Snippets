@@ -1,3 +1,6 @@
+# Explain Shell
+https://explainshell.com/
+
 # Store SSH in keychain
 ssh-add -K ~/.ssh/[your-private-key]
 

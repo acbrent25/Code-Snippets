@@ -25,4 +25,36 @@ $terms = get_field('custom_field', $term_obj);
 <?php foreach($terms as $term) : ?>
    <a href="<?php echo $link; ?>/<?php echo strtolower($term->name); ?>"><?php echo $term->name; ?></a>, 
 <?php endforeach; ?> 
-   
+
+
+
+<?php
+   //Function Reference/ get term hierarchy
+   /** The taxonomy we want to parse */
+   $taxonomy = "category";
+   /** Get all taxonomy terms */
+   $terms = get_terms($taxonomy, array(
+           "orderby"    => "count",
+           "hide_empty" => false
+       )
+   );
+   /** Get terms that have children */
+   $hierarchy = _get_term_hierarchy($taxonomy);
+       /** Loop through every term */
+       foreach($terms as $term) {
+       //Skip term if it has children
+       if($term->parent) {
+         continue;
+       } 
+         echo $term->name;    
+       /** If the term has children... */
+         if($hierarchy[$term->term_id]) {
+       /** display them */
+       foreach($hierarchy[$term->term_id] as $child) {
+       /** Get the term object by its ID */
+       $child = get_term($child, "category_list");
+            echo '--'.$child->name;
+           }
+        }
+     }
+ ?>
