@@ -11,7 +11,7 @@ body .gform_wrapper .gform_body .gform_fields .gfield input[type=tel],
 body .gform_wrapper .gform_body .gform_fields .gfield select,
 body .gform_wrapper .gform_body .gform_fields .gfield textarea {
 	background-color:#fff;
-	color:#000
+	color:#000;
 }
 
 /* Center Submit Button */

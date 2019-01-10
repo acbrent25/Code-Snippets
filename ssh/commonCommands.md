@@ -46,3 +46,11 @@ tail -f /var/log/apache2/error.log
 
 # Ping Website to Find Out IP Address
 ping sitename.com
+
+
+ssh into the server.   turn yourself into root by either "sudo su" or "su root" and entering the password
+
+cd to directory
+enter either:
+sudo chown -R www-data:www-data .
+or sudo chown -R sysadmin:www-data .
