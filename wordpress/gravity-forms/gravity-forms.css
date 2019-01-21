@@ -14,6 +14,36 @@ body .gform_wrapper .gform_body .gform_fields .gfield textarea {
 	color:#000;
 }
 
+/* Specific form and placeholder example */
+
+#gform_wrapper_1 .gform_body .gform_fields .gfield input[type=text],
+#gform_wrapper_1 .gform_body .gform_fields .gfield input[type=email],
+#gform_wrapper_1 .gform_body .gform_fields .gfield input[type=url],
+#gform_wrapper_1 .gform_body .gform_fields .gfield input[type=password],
+#gform_wrapper_1 .gform_body .gform_fields .gfield input[type=tel],
+#gform_wrapper_1 .gform_body .gform_fields .gfield select,
+#gform_wrapper_1 .gform_body .gform_fields .gfield textarea {
+   background-color: rgba(255, 255, 255, 0.2);
+   background: rgba(255, 255, 255, 0.2);
+   color: #fff;
+   width: 100%;
+   border: none !important;
+
+}
+
+#gform_wrapper_1 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+   color: #fff;
+ }
+ #gform_wrapper_1 ::-moz-placeholder { /* Firefox 19+ */
+   color: #fff;
+ }
+ #gform_wrapper_1 :-ms-input-placeholder { /* IE 10+ */
+   color: #fff;
+ }
+ #gform_wrapper_1 :-moz-placeholder { /* Firefox 18- */
+   color: #fff;
+ }
+
 /* Center Submit Button */
 .gform_footer.top_label {
    text-align: center;

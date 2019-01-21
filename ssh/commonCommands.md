@@ -47,6 +47,9 @@ tail -f /var/log/apache2/error.log
 # Ping Website to Find Out IP Address
 ping sitename.com
 
+# Show currrent Dirctory
+pwd
+
 
 ssh into the server.   turn yourself into root by either "sudo su" or "su root" and entering the password
 
