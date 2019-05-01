@@ -16,5 +16,19 @@ echo wp_trim_words( get_the_content(), 20, '...' );
 <!-- // Conditional Link -->
 <a href="<?php if(!is_page( 9 )) {echo get_page_link(9);} ?>#pharmaceutical" class="btn">learn more</a>
 
+<!-- Exclude category by slug -->
+
+<?php
+'tax_query' => array(
+    array(
+        'taxonomy' => 'ev_category',
+        'field'    => 'slug',
+        'terms'    => array( 'user-forum' ),
+        'operator' => 'NOT IN',
+    )
+),
+
+?>
+
 
 
